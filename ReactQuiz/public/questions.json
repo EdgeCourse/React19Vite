@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "question": "What hook is used to handle state in a functional component?",
+      "options": ["useState", "useEffect", "useReducer", "useContext"],
+      "answer": "useState"
+    },
+    {
+      "id": 2,
+      "question": "Which package is used for routing in React?",
+      "options": ["react-dom", "react-router-dom", "redux", "react-navigation"],
+      "answer": "react-router"
+    },
+    {
+      "id": 3,
+      "question": "Which hook is used for side effects in functional components?",
+      "options": ["useEffect", "useState", "useCallback", "useContext"],
+      "answer": ""
+    },
+  
+    {
+      "id": 4,
+      "question": "Which hook is used to memoize expensive functions in React and works on the return value?",
+      "options": ["useState", "useEffect", "useMemo", "useCallback"],
+      "answer": ""
+    },
+    {
+      "id": 5,
+      "question": "What does JSX stand for?",
+      "options": ["JavaScript XML", "JavaScript Extension", "Java Syntax Extension", "JavaScript Element"],
+      "answer": ""
+    },
+   
+    {
+      "id": 6,
+      "question": "What does the `useReducer` hook manage?",
+      "options": ["Local state", "Complex state logic", "Fetching data", "DOM manipulation"],
+      "answer": ""
+    },
+    {
+      "id": 7,
+      "question": "Which of these methods is used to update the state in React and was used before Hooks were introduced?",
+      "options": ["setState", "updateState", "changeState", "useState"],
+      "answer": ""
+    },
+    {
+      "id": 8,
+      "question": "In React, what is the virtual DOM?",
+      "options": ["A lightweight copy of the real DOM", "A browser plugin", "A component", "A state management tool"],
+      "answer": ""
+    },
+    {
+      "id": 9,
+      "question": "Which React feature allows a component to pass data to a descendant component?",
+      "options": ["useContext", "useState", "useEffect", "useRef"],
+      "answer": ""
+    },
+    {
+      "id": 10,
+      "question": "What is the primary purpose of `React.Fragment`?",
+      "options": ["To return multiple elements without adding extra nodes to the DOM", "To handle state", "To add side effects", "To handle forms"],
+      "answer": ""
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of the `key` prop in React?",
+      "options": ["To track elements in a list in the DOM", "To give unique identifiers to components", "To make components render faster", "To handle state management"],
+      "answer": ""
+    },
+   
+    {
+      "id": 12,
+      "question": "What is React's state management library for global state?",
+      "options": ["useState", "redux", "useContext", "useReducer"],
+      "answer": ""
+    },
+    {
+      "id": 13,
+      "question": "Which React hook is used to store references to DOM elements?",
+      "options": ["useRef", "useState", "useEffect", "useMemo"],
+      "answer": ""
+    },
+    {
+      "id": 14,
+      "question": "How do you create a class-based component in React?",
+      "options": ["function MyComponent() {}", "class MyComponent extends React.Component {}", "function MyComponent() { return; }", "class MyComponent() {}"],
+      "answer": ""
+    },
+    {
+      "id": 15,
+      "question": "Which hook is best suited for performance optimization of functions in React?",
+      "options": ["useCallback", "useMemo", "useEffect", "useState"],
+      "answer": ""
+    },
+    {
+      "id": 16,
+      "question": "Which statement about React’s `render` method is true?",
+      "options": ["It returns JSX", "It updates the state", "It interacts with the DOM", "It is only available in class components"],
+      "answer": ""
+    },
+   
+    {
+      "id": 17,
+      "question": "Which React hook is used to handle side effects like data fetching?",
+      "options": ["useEffect", "useState", "useContext", "useMemo"],
+      "answer": ""
+    },
+    
+    {
+      "id": 18,
+      "question": "Which package is commonly used for state management in large React applications?",
+      "options": ["react-redux", "redux-thunk", "react-router-dom", "react-context-api"],
+      "answer": ""
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a valid JSX expression?",
+      "options": ["<div className='container'></div>", "<div class=container></div>", "<div class='container'></div>", "<div class=container></di>"],
+      "answer": ""
+    }
+  ]
+  
